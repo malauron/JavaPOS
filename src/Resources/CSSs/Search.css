@@ -1,0 +1,13 @@
+.colItemPhoto {
+    -fx-min-width: 110px;
+    -fx-pref-width: 110px;
+    -fx-max-width: 110px;
+}
+.vbxItemInfo {
+    -fx-alignment: CENTER-LEFT;
+    -fx-padding: 0px 0px 0px 10px;
+}
+
+.lblItemName {
+    -fx-font-size: 18px;
+}

@@ -1,0 +1,52 @@
+*{
+    -fx-default-shadow: #484848;
+    -fx-default-background: #D70506;
+    -fx-default-header-background: #3c3c3c;
+    -fx-secondary-background: #FFFFFF;
+}
+
+.ancMainHolder {
+    -fx-effect: DropShadow(three-pass-box, -fx-default-shadow,20,0,4,4);
+    -fx-background-color: -fx-secondary-background;
+    -fx-border-color: -fx-default-header-background;
+}
+
+.hbxHeader {
+    -fx-background-color: -fx-default-header-background;
+}
+
+.vbxMenu {
+    -fx-background-color: -fx-default-header-background;
+}
+
+.vbxItemDetail {
+    -fx-min-width: 630px;
+    -fx-pref-width: 630px;
+    -fx-alignment: CENTER-LEFT;
+    -fx-padding: 0px 0px 0px 10px;
+}
+
+.hbxActionButtons {
+    -fx-alignment: BOTTOM-RIGHT;
+    -fx-spacing: 5px;
+}
+
+.lblItemName {
+    -fx-font-size: 18px;
+}
+
+.colItemID {
+    -fx-min-width: 770px;
+    -fx-pref-width: 770px;
+}
+
+.colItemTotal {
+    -fx-min-width: 230px;
+    -fx-pref-width: 230px;
+    -fx-alignment: CENTER-RIGHT;
+}
+
+.table-cell.colItemTotal {
+    -fx-font-size: 18px;
+    -fx-font-weight: BOLD;
+}

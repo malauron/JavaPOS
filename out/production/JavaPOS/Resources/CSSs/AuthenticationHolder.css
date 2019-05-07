@@ -1,0 +1,77 @@
+*{
+  -fx-default-shadow: #3c3c3c;
+  -fx-default-background: #D70506;
+  -fx-default-header-background: #484848;
+  -fx-secondary-background: #FFFFFF;
+}
+
+.root {
+  -fx-opacity: 1;
+}
+
+.ancMainHolder {
+ /* -fx-effect: dropshadow(three-pass-box, derive(cadetblue, -20%), 10, 0, 4, 4);*/
+  -fx-effect: dropshadow(three-pass-box, -fx-default-shadow,20,0,4,4);
+  -fx-background-color: -fx-default-background;
+  -fx-border-color: -fx-default-header-background;
+  /*-fx-background-insets: 12;
+  -fx-background-radius: 6; */
+}
+
+.hbxHeader {
+  -fx-background-color: -fx-default-header-background;
+
+}
+
+.ivHeader {
+  -fx-fill: -fx-secondary-background;
+}
+
+.ivHeader:hover {
+  -fx-fill: -fx-default-shadow;
+}
+
+.ivHeader:pressed {
+  -fx-fill: -fx-default-background;
+}
+
+.stpSubHolder, .hbxButtons {
+  -fx-background-color: -fx-secondary-background;
+}
+
+.sideIcon {
+  -fx-fill: -fx-default-header-background;
+}
+
+.txtBox {
+  -jfx-focus-color: -fx-default-header-background;
+  -jfx-unfocus-color: -fx-default-header-background;
+}
+
+.btn {
+  -fx-background-color: -fx-default-header-background;
+  -fx-background-radius: 10px;
+}
+
+.jfx-progress-bar > .track, .jfx-progress-bar .bar {
+  -fx-background-radius: 0;
+  -fx-background-insets: 0;
+}
+
+.jfx-progress-bar > .bar {
+  -fx-background-color: -fx-default-background;
+}
+
+/*.modal-dialog-content {
+  -fx-padding: 20;
+  -fx-spacing: 10;
+  -fx-alignment: center;
+  -fx-font-size: 20;
+  -fx-background-color: linear-gradient(to bottom, derive(cadetblue, 20%), cadetblue);
+  -fx-border-color: derive(cadetblue, -20%);
+  -fx-border-width: 5;
+  -fx-background-insets: 12;
+  -fx-border-insets: 10;
+  -fx-border-radius: 6;
+  -fx-background-radius: 6;
+}*/

@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaPOS" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b2aff59-1531-4796-b062-cb421e18c921" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaPOS$JavaPOS.ic" NAME="JavaPOS Coverage Results" MODIFIED="1542175503383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JavaPOS$JavaPOS.coverage" NAME="JavaPOS Coverage Results" MODIFIED="1541312739545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="681223339">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="13" />
+          <entry key="fxml" value="6" />
+          <entry key="java" value="228" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="13" />
+          <entry key="JAVA" value="228" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="909" />
+          <entry key="dummy" value="26" />
+          <entry key="fxml" value="56" />
+          <entry key="java" value="39362" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="909" />
+          <entry key="JAVA" value="39362" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="XML" value="56" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ApplicationHolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="100" column="42" lean-forward="true" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Shiftdetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IShiftDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/POSTransactions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/Shiftdetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
+                <element signature="e#1033#1034#0" expanded="true" />
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user</find>
+      <find>posFormNode</find>
+      <find>posItem</find>
+      <find>oldpi</find>
+      <find>loadPOSItem</find>
+      <find>system</find>
+      <find>shiftdetail_id</find>
+      <find>sys</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IUserSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/UserForm.java" />
+        <option value="$PROJECT_DIR$/src/Resources/FXMLs/UserForm.fxml" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/ItemGroup.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/UOMs.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/ItemSubGroup.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/UnitOfMeasure.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/IItems.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Utilities/ConnectionMain.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Users.java" />
+        <option value="$PROJECT_DIR$/src/Resources/CSSs/Search.css" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/ItemGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/ItemSubGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemSubGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Utilities/ConnectionMySQL.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemAssemblies.java" />
+        <option value="$PROJECT_DIR$/src/Resources/FXMLs/POSForm.fxml" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/POSItemAssembly.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/Item.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/UserSearch.java" />
+        <option value="$PROJECT_DIR$/src/Resources/CSSs/ApplicationHolder.css" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/POSItem.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItems.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/ItemSearch.java" />
+        <option value="$PROJECT_DIR$/src/Resources/CSSs/ModalForm.css" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/POSItems.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/ItemForm.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemDetails.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/POSTransaction.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IPOSPaymentForm.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IPaymentForm.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/PaymentForm.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/ItemAssembly.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/POSTransactions.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Items.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/ItemAssemblies.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/ItemDetails.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/POSForm.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/ConnectionSettings.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/DataAccessConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IShiftdetail.java" />
+        <option value="$PROJECT_DIR$/src/Resources/FXMLs/ShiftDetail.fxml" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/ShiftDetailForm.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Utilities/FXMLForms.java" />
+        <option value="$PROJECT_DIR$/src/Resources/FXMLs/ShiftDetailForm.fxml" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Controllers/ApplicationHolder.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IShiftdetails.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IShiftDetails.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataModels/Shiftdetail.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Shiftdetails.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="DataAccessObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="DataModels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="FXMLs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554896419033" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JRPrintPreview-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35402298" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.splitter.proportion" value="0.23144531" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.JavaPOS.Interfaces" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Marky\Projects\JavaPrograms\JavaPOS\src\Resources\FXMLs" />
+      <recent name="E:\Projects\JavaPrograms\JavaPOS\src\Resources\FXMLs" />
+      <recent name="E:\Projects\JavaPrograms\JavaPOS\src\Resources" />
+      <recent name="E:\Projects\JavaPrograms\JavaPOS\src\com\JavaPOS\Controllers" />
+      <recent name="E:\Projects\JavaPrograms\JavaPOS\src\com\JavaPOS\DataAccessObjects" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.JavaPOS.Interfaces" />
+      <recent name="com.JavaPOS.Controllers" />
+      <recent name="com.JavaPOS.DataAccessObjects" />
+      <recent name="com.JavaPOS.Utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Marky\Projects\JavaPrograms\JavaPOS\src\com\JavaPOS\Views\FXMLs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JavaPOS">
+    <configuration name="JavaPOS" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.JavaPOS.Main.JavaPOS" />
+      <module name="JavaPOS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaPOS.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaPOS/JavaPOS.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaPOS" />
+      <item itemvalue="JAR Application.JavaPOS.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.JavaPOS.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1542122280131" text="getLoader" recursive="true" caseInsensitive="true" type="JAVA" history="1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b2aff59-1531-4796-b062-cb421e18c921" name="Default Changelist" comment="" />
+      <created>1540868182049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540868182049</updated>
+      <workItem from="1540868197160" duration="16930000" />
+      <workItem from="1540907591180" duration="967000" />
+      <workItem from="1540908577664" duration="2019000" />
+      <workItem from="1541078907939" duration="7039000" />
+      <workItem from="1541152761194" duration="8874000" />
+      <workItem from="1541174804351" duration="746000" />
+      <workItem from="1541250589715" duration="1024000" />
+      <workItem from="1541296244816" duration="13420000" />
+      <workItem from="1541320539197" duration="1481000" />
+      <workItem from="1541333159711" duration="8588000" />
+      <workItem from="1541380180345" duration="14216000" />
+      <workItem from="1541465533619" duration="29094000" />
+      <workItem from="1541509410488" duration="9672000" />
+      <workItem from="1541553573369" duration="19298000" />
+      <workItem from="1541640347003" duration="12327000" />
+      <workItem from="1541682141821" duration="5503000" />
+      <workItem from="1541725828639" duration="12617000" />
+      <workItem from="1541810362218" duration="8524000" />
+      <workItem from="1541906567035" duration="6876000" />
+      <workItem from="1541929235014" duration="9702000" />
+      <workItem from="1541984847637" duration="25400000" />
+      <workItem from="1542025341239" duration="3389000" />
+      <workItem from="1542068907578" duration="19169000" />
+      <workItem from="1542119698719" duration="2379000" />
+      <workItem from="1542174903310" duration="588000" />
+      <workItem from="1542175537098" duration="10205000" />
+      <workItem from="1542277355805" duration="4285000" />
+      <workItem from="1542329196010" duration="6580000" />
+      <workItem from="1542518175876" duration="7599000" />
+      <workItem from="1542532652313" duration="413000" />
+      <workItem from="1542545849953" duration="13985000" />
+      <workItem from="1542605030244" duration="16182000" />
+      <workItem from="1542628462200" duration="1490000" />
+      <workItem from="1542674598841" duration="13520000" />
+      <workItem from="1542696213854" duration="6942000" />
+      <workItem from="1542715122020" duration="21439000" />
+      <workItem from="1542817503159" duration="2656000" />
+      <workItem from="1542848015046" duration="37478000" />
+      <workItem from="1543325267580" duration="2212000" />
+      <workItem from="1543575879802" duration="285000" />
+      <workItem from="1543625580488" duration="28290000" />
+      <workItem from="1543892918592" duration="3260000" />
+      <workItem from="1544420080185" duration="1091000" />
+      <workItem from="1544499196269" duration="1913000" />
+      <workItem from="1545967708567" duration="601000" />
+      <workItem from="1546930744807" duration="613000" />
+      <workItem from="1548144955180" duration="43000" />
+      <workItem from="1548145007704" duration="30000" />
+      <workItem from="1548145044854" duration="1417000" />
+      <workItem from="1548148530293" duration="2783000" />
+      <workItem from="1548299806681" duration="6777000" />
+      <workItem from="1548383128463" duration="1207000" />
+      <workItem from="1554451792133" duration="10535000" />
+      <workItem from="1554711273498" duration="1191000" />
+      <workItem from="1554868643025" duration="17182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="462046000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16792738" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36070853" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27858293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/ItemSubGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/UserForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="273" column="34" selection-start-line="273" selection-start-column="29" selection-end-line="273" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Utilities/CryptoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/ItemSubGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FXMLs/POSForm.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/Resources/CSSs/AuthenticationHolder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/CSSs/ApplicationHolder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/scene/control/TableCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="662" selection-start-line="662" selection-end-line="662" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/POSItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/CSSs/ModalForm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/CSSs/Search.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" selection-start-column="15" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IUserSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/UserSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IPaymentForm.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemAssemblies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ItemSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FXMLs/ItemDetails.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/POSForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4624">
+          <caret line="272" column="41" selection-start-line="272" selection-start-column="41" selection-end-line="272" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/ItemAssemblies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="90" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/POSItemAssembly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ItemDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="251" column="47" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/PaymentForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/AuthenticationHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Main/JavaPOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ConnectionSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Utilities/ConnectionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/ItemAssembly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Utilities/CurrentUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/UserGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ShiftDetailForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ItemForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="110" column="22" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/FXMLs/ShiftDetailForm.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItemSubGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Utilities/FXMLForms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/DataAccessConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="72" column="62" selection-start-line="72" selection-start-column="62" selection-end-line="72" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Utilities/ConnectionMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="68" column="49" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Items.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="248" column="47" lean-forward="true" selection-start-line="248" selection-start-column="47" selection-end-line="248" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Controllers/ApplicationHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="100" column="42" lean-forward="true" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/Interfaces/IShiftDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/POSTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/POSTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataModels/Shiftdetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaPOS/DataAccessObjects/Shiftdetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaPOS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.181</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaPOS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfoenix-8.0.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35402298" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

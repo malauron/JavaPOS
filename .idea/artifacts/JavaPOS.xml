@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaPOS">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaPOS</output-path>
+    <root id="archive" name="JavaPOS.jar">
+      <element id="module-output" name="JavaPOS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-java-8.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jfoenix-8.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../fontawesomefx-8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

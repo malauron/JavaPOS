@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import de.jensd.fx.glyphs.materialdesignicons.MaterialDesignIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxWidth="1024.0" minWidth="1024.0" prefHeight="650.0" prefWidth="1024.0" style="-fx-background-color: #FF7E85;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.JavaPOS.Controllers.ShiftDetailForm">
+   <children>
+      <VBox alignment="TOP_CENTER" layoutX="10.0" layoutY="10.0" style="-fx-background-color: #eeeeee;" AnchorPane.bottomAnchor="125.0" AnchorPane.leftAnchor="214.5" AnchorPane.rightAnchor="214.5" AnchorPane.topAnchor="125.0">
+         <children>
+            <HBox alignment="CENTER_LEFT" maxHeight="40.0" style="-fx-background-color: #FF7E85;">
+               <padding>
+                  <Insets left="10.0" />
+               </padding>
+               <children>
+                  <MaterialDesignIconView fill="WHITE" glyphName="INFORMATION" size="40" />
+                  <Label prefHeight="50.0" prefWidth="171.0" text="Change Fund" textFill="WHITE">
+                     <font>
+                        <Font name="Microsoft JhengHei" size="18.0" />
+                     </font>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+            </HBox>
+            <VBox minHeight="360.0" spacing="20.0" style="-fx-background-color: #FFFFFF;">
+               <children>
+                  <HBox alignment="CENTER_RIGHT" spacing="5.0">
+                     <children>
+                        <JFXTextField fx:id="txtAmountDue" alignment="CENTER_RIGHT" focusColor="#ff7e85" labelFloat="true" prefHeight="66.0" prefWidth="563.0" promptText="Amount" unFocusColor="#ff7e85">
+                           <font>
+                              <Font name="Microsoft JhengHei" size="31.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets top="50.0" />
+                           </HBox.margin>
+                        </JFXTextField>
+                     </children>
+                  </HBox>
+                  <Separator prefWidth="200.0" />
+                  <HBox alignment="BOTTOM_RIGHT" spacing="5.0">
+                     <children>
+                        <JFXButton fx:id="btnSave" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #0f9d58; -fx-background-radius: 10px;" text="Proceed" textFill="WHITE">
+                           <font>
+                              <Font name="Microsoft JhengHei" size="18.0" />
+                           </font>
+                        </JFXButton>
+                     </children>
+                     <VBox.margin>
+                        <Insets top="-12.0" />
+                     </VBox.margin>
+                  </HBox>
+               </children>
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+               <padding>
+                  <Insets left="10.0" right="10.0" top="20.0" />
+               </padding>
+            </VBox>
+         </children>
+         <padding>
+            <Insets left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </VBox>
+   </children>
+</AnchorPane>

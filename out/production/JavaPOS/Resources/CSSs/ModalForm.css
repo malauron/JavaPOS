@@ -1,0 +1,10 @@
+.colItemName {
+    -fx-min-width: 430px;
+    -fx-pref-width: 430px;
+}
+
+.colAddons {
+    -fx-min-width: 140px;
+    -fx-pref-width: 140px;
+    -fx-alignment: CENTER-RIGHT;
+}
